@@ -1,2 +1,4 @@
 "generate me a instagram clone landing page"
 
+"please use the sample pictures also dont leave blank  spaces and also make sure the application generated is responsive with different screen sizes and overall as par with the real instagram application."
+
